@@ -3,7 +3,7 @@
 #AUTHOR: CRUZ, Anton Dominique T.
 #SUBJECT: CMSC128 Introduction to Software Engineering
 #SECTION: AB-7L
-#DESCRIPTION: File that defines the getHammingDistance function
+#DESCRIPTION: File for the getHammingDistance function
 
 def getHammingDistance(str1, str2): #defines getHammingDistance function
    hammingDistance = 0 #sets a local variable named hammingDistance and initialise it to nought
