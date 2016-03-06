@@ -3,9 +3,9 @@
 #AUTHOR: CRUZ, Anton Dominique T.
 #SUBJECT: CMSC128 Introduction to Software Engineering
 #SECTION: AB-7L
-#DESCRIPTION: File for the getSkew function
+#DESCRIPTION: File for the getMaxSkewN function
 
-def getMaxSkewN(str, n): #defines getSkew function
+def getMaxSkewN(str, n): #defines getMaxSkewN function
    if n < 1:
       print "n has to be greater than 0"
       return -1
