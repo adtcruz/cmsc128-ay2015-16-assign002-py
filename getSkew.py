@@ -6,6 +6,9 @@
 #DESCRIPTION: File for the getSkew function
 
 def getSkew(str, n): #defines getSkew function
+   if n < 1:
+      print "n has to be greater than 0"
+      return -1
    i = 0 #initialises the index i for traversing str
    j = n - 1 #initialises the position where traversing shall end
    gCount = 0 #initialises the number of Gs
