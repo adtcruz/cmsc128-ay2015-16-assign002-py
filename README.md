@@ -4,13 +4,13 @@ This is a submission to a requirement in CMSC128 -- Introduction to Software Eng
 Feel free to use this library if you find it useful for your project.
 
 ####Files included
-*This document, README.md
-*getHammingDistance.py
-*countSubstrPattern.py
-*isValidString.py
-*getSkew.py
-*getMaxSkewN.py
-*getMinSkewN.py
+* This document, README.md
+* getHammingDistance.py
+* countSubstrPattern.py
+* isValidString.py
+* getSkew.py
+* getMaxSkewN.py
+* getMinSkewN.py
 
 ####How to use
 Each of the Python scripts included have the test cases given by our lecturer. Simply invoke 'python <filename>' to test these functions. These are tested to run in Python 2.7.5.
