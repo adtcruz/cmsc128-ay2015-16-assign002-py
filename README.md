@@ -1,4 +1,4 @@
-##CMSC128 Assignment 002
+##CMSC128 Programming Assignment 002
 This is a submission to a requirement in CMSC128 -- Introduction to Software Engineering -- of the Academic Year 2015-2016. Written in Python, this is a library which could be used in Simple Bioinformatics Problems. 
 
 Feel free to use this library if you find it useful for your project.
