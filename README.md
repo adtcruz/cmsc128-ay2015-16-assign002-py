@@ -13,9 +13,9 @@ Feel free to use this library if you find it useful for your project.
 * getMinSkewN.py
 
 ####How to use
-Each of the Python scripts included have the test cases given by our lecturer. Simply invoke 'python <filename>' to test these functions. These are tested to run in Python 2.7.5.
+Each of the Python scripts included have the test cases given by our lecturer. Simply invoke `python filename` to test these functions. These are tested to run in Python 2.7.5.
 
-If you wish to use these functions in your project, simply comment out those lines that are marked by the '#test case' comment by adding a number symbol('#') in the line start.
+If you wish to use these functions in your project, simply comment out those lines that are marked by the `#test case` comment by adding a number symbol(`#`) in the line start.
 
 ######getHammingDistance.py
 This contains a function counts the number of characters that differ between two strings of equal length. String length must never be less than 1.
